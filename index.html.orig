@@ -59,8 +59,13 @@
         <div class="row h-100">
           <div class="col-lg-7 my-auto">
             <div class="header-content mx-auto">
+<<<<<<< Updated upstream
+              <h1 class="mb-5">OpenCare is a diagnostic tracking app for caregives of elderly and dementia-diagnosed loved ones.</h1>
+              <!--<a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Download App</a>-->
+=======
               <h1 class="mb-5">OpenCare is a diagnostic tracking app that benefits both caregivers and their elderly or dementia-diagnosed loved ones.</h1>
               <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Download App</a>
+>>>>>>> Stashed changes
             </div>
           </div>
           <div class="col-lg-5 my-auto">
